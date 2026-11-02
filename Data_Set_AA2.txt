@@ -1,0 +1,18 @@
+"ID:TRK901; PRODUCTO: laptop_MACBOOK_PRO ; ORIGEN:China;
+PRECIO:1200.5; TASA:0.15",
+ "id-TRK902, producto- camara_SONY, origen-Japon, precio-850.0, tasa0.10",
+ "ID:TRK903; PRODUCTO:consola_PLAYSTATION; ORIGEN:USA;
+PRECIO:499.9; TASA:0.12####",
+ " id:TRK904 - producto: monitor_DELL - origen:Corea - precio:350.0 -
+tasa:0.08",
+ "ID:TRK905; PRODUCTO:teclado_MECANICO; ORIGEN:China;
+PRECIO:120.0; TASA:0.15",
+ "id-TRK906, producto- audifonos_BOSE, origen-USA, precio-299.0, tasa0.12????",
+ "ID:TRK907; PRODUCTO: tablet_SAMSUNG ; ORIGEN:Vietnam;
+PRECIO:650.0; TASA:0.10",
+ "id:TRK908 - producto: disco_DURO - origen:China - precio:90.0 -
+tasa:0.15",
+ "ID:TRK909; PRODUCTO:reloj_GARMIN; ORIGEN:Suiza; PRECIO:450.0;
+TASA:0.05!!!!",
+ "id-TRK910, producto- microfono_SHURE, origen-Mexico, precio-210.0,
+tasa-0.07"
